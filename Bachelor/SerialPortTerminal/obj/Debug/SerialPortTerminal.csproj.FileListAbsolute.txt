@@ -1,0 +1,17 @@
+C:\Users\straube.QUODATA\Documents\Visual Studio 2010\Projects\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.config
+C:\Users\straube.QUODATA\Documents\Visual Studio 2010\Projects\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.manifest
+C:\Users\straube.QUODATA\Documents\Visual Studio 2010\Projects\SerialPortTerminal\bin\Debug\SerialPort Terminal.application
+C:\Users\straube.QUODATA\Documents\Visual Studio 2010\Projects\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe
+C:\Users\straube.QUODATA\Documents\Visual Studio 2010\Projects\SerialPortTerminal\bin\Debug\SerialPort Terminal.pdb
+C:\Users\straube.QUODATA\Documents\Visual Studio 2010\Projects\SerialPortTerminal\obj\Debug\SerialPortTerminal.frmAbout.resources
+C:\Users\straube.QUODATA\Documents\Visual Studio 2010\Projects\SerialPortTerminal\obj\Debug\SerialPortTerminal.frmTerminal.resources
+C:\Users\straube.QUODATA\Documents\Visual Studio 2010\Projects\SerialPortTerminal\obj\Debug\SerialPortTerminal.Properties.Resources.resources
+C:\Users\straube.QUODATA\Documents\Visual Studio 2010\Projects\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe.manifest
+C:\Users\straube.QUODATA\Documents\Visual Studio 2010\Projects\SerialPortTerminal\obj\Debug\SerialPort Terminal.application
+C:\Users\straube.QUODATA\Documents\Visual Studio 2010\Projects\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe
+C:\Users\straube.QUODATA\Documents\Visual Studio 2010\Projects\SerialPortTerminal\obj\Debug\SerialPort Terminal.pdb
+C:\Users\straube.QUODATA\Documents\Visual Studio 2010\Projects\SerialPortTerminal\obj\Debug\SerialPortTerminal.csproj.GenerateResource.Cache
+C:\Users\straube.QUODATA\Documents\Visual Studio 2010\Projects\SerialPortTerminal\obj\Debug\SerialPortTerminal.csprojResolveAssemblyReference.cache
+T:\Labor\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.config
+T:\Labor\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe
+T:\Labor\SerialPortTerminal\obj\Debug\SerialPort Terminal.pdb
