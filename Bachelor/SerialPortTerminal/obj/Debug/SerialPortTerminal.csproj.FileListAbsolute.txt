@@ -15,3 +15,6 @@ C:\Users\straube.QUODATA\Documents\Visual Studio 2010\Projects\SerialPortTermina
 T:\Labor\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.config
 T:\Labor\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe
 T:\Labor\SerialPortTerminal\obj\Debug\SerialPort Terminal.pdb
+C:\Users\martin.schneider\Desktop\C#\Stuff\Bachelor\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.config
+C:\Users\martin.schneider\Desktop\C#\Stuff\Bachelor\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe
+C:\Users\martin.schneider\Desktop\C#\Stuff\Bachelor\SerialPortTerminal\obj\Debug\SerialPort Terminal.pdb
