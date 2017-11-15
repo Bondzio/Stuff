@@ -1,0 +1,12 @@
+<project name="Quantum Computing" version="docear 1.0" ID="15F9287BD954QDAU6BZJPGV8HZJFLPW7RY7">
+<folder type="library" name="Library">
+<link type="literature_annotations" name="Literature &amp; Annotations" path="project://15F9287BD954QDAU6BZJPGV8HZJFLPW7RY7/_data/15F9287BD954QDAU6BZJPGV8HZJFLPW7RY7/default_files/literature_and_annotations.mm"/>
+<link type="file" name="Temp" path="project://15F9287BD954QDAU6BZJPGV8HZJFLPW7RY7/_data/15F9287BD954QDAU6BZJPGV8HZJFLPW7RY7/default_files/temp.mm" system="true"/>
+<link type="file" name="Trash" path="project://15F9287BD954QDAU6BZJPGV8HZJFLPW7RY7/_data/15F9287BD954QDAU6BZJPGV8HZJFLPW7RY7/default_files/trash.mm" system="true"/>
+</folder>
+<folder type="physical" name="My drafts" path="project://15F9287BD954QDAU6BZJPGV8HZJFLPW7RY7/_data/15F9287BD954QDAU6BZJPGV8HZJFLPW7RY7/My%20Drafts/"/>
+<folder type="literature_repository" name="Literature repository" system="true">
+<folder type="repository_path" name="default" path="file:/D:/Docear//literature_repository"/>
+</folder>
+<link type="references" name="References" path="project://15F9287BD954QDAU6BZJPGV8HZJFLPW7RY7/_data/15F9287BD954QDAU6BZJPGV8HZJFLPW7RY7/default_files/Quantum%20Computing.bib" system="true"/>
+</project>
