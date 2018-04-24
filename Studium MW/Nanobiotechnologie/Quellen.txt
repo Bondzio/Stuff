@@ -1,0 +1,5 @@
+nanotechweb.org
+nano-magazine.com
+
+2 x 10 Minuten Vortrag über aktuelle Themen, englisch, 21.6 u. 28.6
+1 x 20 Minuten Vortrag über festes Thema, deutsch, 28.6, Anwendungsbereiche in der Informations- und Kommunikationstechnik (Bioelektronische Bauelemente, Bakteriorhodopsin, DNS als Datenspeicher, DNA-Computing)
